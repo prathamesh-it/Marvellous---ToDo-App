@@ -15,3 +15,7 @@ Frontend: React
 Styling: CSS
 Storage: Browser LocalStorage
 Build Tool: Vite / Create React App (whichever you used)
+
+
+
+<img width="1920" height="856" alt="Screenshot (561)" src="https://github.com/user-attachments/assets/63862ae4-84e7-40f8-a99f-acdd25658214" />
